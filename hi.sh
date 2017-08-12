@@ -4,3 +4,4 @@ args=("$@")
 echo ${args[0]}
 echo $@
 echo $#
+#git rebasing eample
