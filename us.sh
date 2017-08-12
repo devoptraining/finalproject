@@ -3,4 +3,5 @@ for i in `cat user.txt`
 do
 useradd $i
 done
-#rebase example
+#rebase examplea
+#new line has added
